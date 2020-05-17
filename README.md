@@ -14,7 +14,7 @@ A abordagem algorítmica tradicional da análise de imagens para classificação
 (2) identificação de cada objeto segmentado usando classificadores estatísticos ou classificadores de aprendizado de máquina computacionais neurais superficiais projetados especificamente para cada classe de objetos;
 (3) classificação da imagem.
 
-A criação e o refinamento de vários classificadores exigiram muitas pessoas qualificadas e muito tempo e eram computacionalmente caros.
+A criação e o refinamento de vários classificadores exigiram muitas pessoas qualificadas e muito tempo e eram computacionalmente caros. O desenvolvimento de camadas de redes neurais convolucionais permitiu ganhos significativos na capacidade de classificar imagens e detectar objetos em uma imagem São várias camadas de processamento nas quais os filtros ou convoluções de análise de imagem são aplicados.
 
 ## Projeto
 
