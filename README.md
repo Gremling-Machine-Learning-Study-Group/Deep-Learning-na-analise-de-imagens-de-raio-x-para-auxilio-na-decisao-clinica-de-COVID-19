@@ -31,7 +31,7 @@ Nosso modelo de Deep Neural se concentra em uma aplicaço rapida mais robusta, o
 
 ### Codigo
 
-Nosso codigo esta descrito no notebook python anexo neste repositorio. Note que a titulo de comparação podemos dizer que a melhoria do mesmo está condicionada a uma melhora no dados para treino.
+Nosso codigo esta descrito no notebook python anexo neste repositorio. Note que a titulo de comparação podemos dizer que a melhoria do mesmo está condicionada a uma melhora no dados para treino e maior tempo de treinamento.
   
   **Resultados:**
   
