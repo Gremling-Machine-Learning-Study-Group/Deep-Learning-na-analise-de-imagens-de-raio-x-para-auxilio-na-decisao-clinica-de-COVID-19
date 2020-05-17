@@ -7,8 +7,6 @@ A implementação de algoritmos de suporte à decisão clínica para imagens mé
 
 ## ETAPA 1: Discussão e Contextualização:
 
-### Discussão:
-
 A inteligência artificial (IA) tem o potencial de revolucionar o diagnóstico e o gerenciamento de doenças, realizando classificações difíceis para especialistas humanos e revisando rapidamente imensas imagens. Apesar de seu potencial, a interpretabilidade clínica e a preparação viável da IA continuam sendo um desafio.
 
 A abordagem algorítmica tradicional da análise de imagens para classificação anteriormente se baseava em:
@@ -18,15 +16,22 @@ A abordagem algorítmica tradicional da análise de imagens para classificação
 (3) classificação da imagem.
 
 A criação e o refinamento de vários classificadores exigiram muitas pessoas qualificadas e muito tempo e eram computacionalmente caros. O desenvolvimento de camadas de redes neurais convolucionais permitiu ganhos significativos na capacidade de classificar imagens e detectar objetos em uma imagem São várias camadas de processamento nas quais os filtros ou convoluções de análise de imagem são aplicados.
-
-### Contextualização
-  
+   
 ## ETAPA 2: Dados e Modelo.
 
+O dados foram obtidos do site Kaggle, o teste foi feito para dois datasets, um se tratando de pessoas com pneumonia e o ourro de pessoas com COVID-19 e ambos os teste foi feita um comparaço binaria onde tratamos de ensinar o modelo a diferenciar um pulmão saudavel de um pulmão doente (pneumonia ou Covid).
+
 ### Dataset
+
+Na maioria das vezes o nosso maior trabalho e na montagem do dataset, visto que esse já se encobntravam prontos e com uma certa confiabilidade, o projeto se tornou mais simples.
+
 ### Modelo
+
+Nosso modelo de Deep Neural se concentra em uma aplicaço rapida mais robusta, onde temos uma grande confiabilidade mas ainda carecemos de mais dados para treinar o mesmo, portanto acreditamos que com o que temos já podemos concluir algo sobre e ainda dizer que podemos sim usar o mesmo para avaliar radiografias.
+
 ### Codigo
 
+Nosso codigo esta descrito no notebook python anexo neste repositorio. Note que a titulo de comparação podemos dizer que a melhoria do mesmo está condicionada a uma melhora no dados para treino.
   
   **Resultados:**
   
