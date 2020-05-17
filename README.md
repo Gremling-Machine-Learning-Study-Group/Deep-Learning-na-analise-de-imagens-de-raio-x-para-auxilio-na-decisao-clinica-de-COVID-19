@@ -34,9 +34,9 @@ A criação e o refinamento de vários classificadores exigiram muitas pessoas q
   
 ## Referencias:
 
-* **"Imagens de radiografia de tórax (Pneumonia)"** https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia; (Visualizado em: 17/05/2020) (Daqui foram obtidos o *datasets* 'Radiografia de pulmões saudaveis e doentes).
+* **"Imagens de radiografia de tórax (Pneumonia)"** https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia; (Visualizado em: 17/05/2020) (Daqui foi obtido o *dataset* 'Chest X-Ray Images (Pneumonia)').
 
-* **"COVID-19 RADIOGRAPHY DATABASE"** https://www.kaggle.com/tawsifurrahman/covid19-radiography-database; (Visualizado em: 17/05/2020) (Daqui foram obtidos o *datasets* 'Banco de dados de radiografia COVID-19').
+* **"COVID-19 RADIOGRAPHY DATABASE"** https://www.kaggle.com/tawsifurrahman/covid19-radiography-database; (Visualizado em: 17/05/2020) (Daqui foi obtido o *dataset* 'COVID-19 Radiography Database').
 
 * **"Detecting COVID-19 induced Pneumonia from Chest X-rays with Transfer Learning: An implementation in Tensorflow and Keras."** https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1; (Visualizado em: 17/05/2020) (Inspiraço para construção deste modelo. GitHub do autor https://github.com/EXJUSTICE/).
 
