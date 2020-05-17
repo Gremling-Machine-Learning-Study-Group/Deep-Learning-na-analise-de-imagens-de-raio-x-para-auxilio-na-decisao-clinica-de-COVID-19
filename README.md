@@ -38,7 +38,7 @@ Nosso codigo esta descrito no notebook python anexo neste repositorio. Note que 
   - No nosso primeiro teste com o dataset 1 tivemos uma acuracia de curácia de teste 91%.
   - No segundo onde o volume de dados era menor 71%.
   
-  *Maiores informações vide notebook*
+  *Maiores informações vide notebook, lá se encontrar um analise grafica detalhando os processos de perda e acuracia.*
   
 ## Referencias:
 
