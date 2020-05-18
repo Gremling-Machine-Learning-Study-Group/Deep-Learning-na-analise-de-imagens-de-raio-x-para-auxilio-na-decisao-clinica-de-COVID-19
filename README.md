@@ -47,9 +47,10 @@ A metodologia deste projeto é bem básica, como todo projeto de Deep Learning n
 
 ## ETAPA 3: Conclusão
 
-Portanto podemos concluir que é sim uma aplicação viável e que futuramente pode ser amplamente empregada em análises preliminares e triagem de paciente com Covid.
+Portanto podemos concluir que é sim uma aplicação viável e que futuramente pode ser amplamente empregada em análises preliminares e triagem de paciente com Covid. Com a aumento na coleta de dados podemos treinar modelos melhores e diagnosticar usando técnica até mais simples por métodos de avaliação de imagens.
 
-## Referencias:
+
+## Referências:
 
 * **"Imagens de radiografia de tórax (Pneumonia)"** https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia; (Visualizado em: 17/05/2020) (Daqui foi obtido o *dataset* 'Chest X-Ray Images (Pneumonia)').
 
