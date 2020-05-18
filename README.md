@@ -1,6 +1,12 @@
-# IA e ciência de dados para apoio a decisão clínica 
+# Deep Learning na análise de imagens de radiografias para auxílio na decisão clínica do COVID-19 
 
 Parte 2 do desafio "IA E CIÊNCIA DE DADOS PARA APOIO A DECISÃO CLÍNICA" da Hackathon 'Hackcovid19' do Centro Brasileiro de Pesquisas Físicas, tentamos demonstrar a possibilidade de usar um modelo de Deep Neural para gerar diagnósticos em radiografias de pulmão, dado o cenário onde se torna impossível usar teste rápidos ou teste laboratoriais em todos os pacientes, o uso de radiografias para diagnosticar Covid ou qualquer outra enfermidade se torna uma opção viável.
+
+Parte 1 do projeto: https://github.com/Gremling-Machine-Learning-Study-Group/Estimativa-de-mortes-por-COVID-19-subnotificadas-no-Brasil---D051---HACKCOVID-19/blob/master/README.md
+
+Página do projeto no Devpost: https://devpost.com/software/test_deep_covid-19#updates
+
+Pitch para a Hackathon (Apenas vídeo): https://www.youtube.com/watch?v=8ujmJz6i4YI
 
 A implementação de algoritmos de suporte à decisão clínica para imagens médicas enfrenta desafios com confiabilidade e interpretabilidade, estabelecemos aqui uma ferramenta de diagnóstico com base em uma estrutura de aprendizado profundo para a triagem de pacientes com doenças tratáveis como comuns, utilizando aprendizado de máquina profundo, treinamos uma rede neural com uma fração dos dados das abordagens convencionais. Demonstramos ainda a aplicabilidade geral do nosso sistema de IA para o diagnóstico de pneumonia usando imagens de raios-X do tórax. Essa ferramenta pode, em última análise, ajudar a acelerar o diagnóstico e o encaminhamento dessas condições tratáveis, facilitando assim o tratamento anterior, resultando em melhores resultados clínicos.
 
