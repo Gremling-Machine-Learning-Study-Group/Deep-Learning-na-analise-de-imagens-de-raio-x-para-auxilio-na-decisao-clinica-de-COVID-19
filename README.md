@@ -39,7 +39,7 @@ Nosso codigo esta descrito no notebook python anexo neste repositorio. Note que 
   - No segundo onde o volume de dados era menor 71%.
   
   *Maiores informações vide notebook, lá se encontrar um analise grafica detalhando os processos de perda e acuracia.*
-  * **Nota** * *: devido a limites computacionais da minha maquina não consegui rodar o modelo por mais tempo.*
+ **Nota** *: devido a limites computacionais da minha maquina não consegui rodar o modelo por mais tempo.*
   
 ## Referencias:
 
